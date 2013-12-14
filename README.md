@@ -1,7 +1,7 @@
 CommandBouncer
 ==============
 
-[![Build Status](https://api.travis-ci.org/Simple-devs/CommandBouncer.png?)](https://travis-ci.org/JuliaLang/julia)
+[![Build Status](https://api.travis-ci.org/Simple-devs/CommandBouncer.png?)](https://travis-ci.org/Simple-devs/CommandBouncer)
 
 This plugin executes a given command when a player executes a certain command
 
@@ -12,8 +12,6 @@ This plugin executes a given command when a player executes a certain command
 + **IRC:** http://tiny.cc/cmdbnc-irc
 
 
-
-+ IR
 
 Development
 ==============
